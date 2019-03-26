@@ -13,5 +13,5 @@ For more information about the simulator, contact mb4bw@virginia.edu
 ![PAIM_Simulator](https://raw.githubusercontent.com/ashkanbashiri/paim_simulator/master/Capture.PNG)
 
 ## References
-[PAIM Paper](https://ieeexplore.ieee.org/abstract/document/8569782 "Bashiri, Masoud, Hassan Jafarzadeh, and Cody H. Fleming. "PAIM: Platoon-based Autonomous Intersection Management." 2018 21st International Conference on Intelligent Transportation Systems (ITSC). IEEE, 2018.")
+[1] (https://ieeexplore.ieee.org/abstract/document/8569782 "Bashiri, Masoud, Hassan Jafarzadeh, and Cody H. Fleming. "PAIM: Platoon-based Autonomous Intersection Management." 2018 21st International Conference on Intelligent Transportation Systems (ITSC). IEEE, 2018.")
 
