@@ -10,7 +10,7 @@ From the "Simulation Settings" form group, select a Traffic Level, Duration of y
 For more information about the simulator, contact mb4bw@virginia.edu
 
 ## A snapshot of the simulator
-![PAIM_Simulator](https://raw.githubusercontent.com/ashkanbashiri/paim_simulator/master/Capture.PNG)
+![PAIM_Simulator](https://github.com/ashkanbashiri/paim_simulator/blob/master/Capture.PNG)
 
 ## References
 [1] "Bashiri, Masoud, Hassan Jafarzadeh, and Cody H. Fleming. "PAIM: Platoon-based Autonomous Intersection Management." 2018 21st International Conference on Intelligent Transportation Systems (ITSC). IEEE, 2018." https://ieeexplore.ieee.org/abstract/document/8569782
