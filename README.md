@@ -16,3 +16,11 @@ For more information about the simulator, contact mb4bw@virginia.edu
 [1] "Bashiri, Masoud, Hassan Jafarzadeh, and Cody H. Fleming. "PAIM: Platoon-based Autonomous Intersection Management." 2018 21st International Conference on Intelligent Transportation Systems (ITSC). IEEE, 2018." https://ieeexplore.ieee.org/abstract/document/8569782
 
 [2] "Bashiri, Masoud, and Cody H. Fleming. "A platoon-based intersection management system for autonomous vehicles." 2017 IEEE Intelligent Vehicles Symposium (IV). IEEE, 2017." https://ieeexplore.ieee.org/abstract/document/7995794
+
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
